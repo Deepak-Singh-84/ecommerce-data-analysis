@@ -61,7 +61,7 @@ Ecommerce_Sales_Analysis/
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](Python\Chart\dashboard.png")
+![Dashboard](Ecommerce_Sales_Analysis/Python/Chart/dashboard.png)
 
 This dashboard shows:
 - Sales trend  
@@ -73,7 +73,7 @@ This dashboard shows:
 
 ## 📊 Charts
 
-![Monthly Sales](Ecommerce_Sales_Analysis/Python/Chart/dashboard.png)  
+![Monthly Sales](Ecommerce_Sales_Analysis/Python/Chart/monthly_sales.png)  
 
 ![Sales by Region](Ecommerce_Sales_Analysis/Python/Chart/sales_by_region.png)  
 
